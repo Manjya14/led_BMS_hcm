@@ -1,0 +1,20 @@
+# Build output
+Debug/
+Debug_FLASH/
+Release/
+
+# Object files
+*.o
+*.d
+
+# Executable output
+*.elf
+*.map
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows files
+Thumbs.db
+Desktop.ini
